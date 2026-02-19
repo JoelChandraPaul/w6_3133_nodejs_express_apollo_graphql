@@ -1,5 +1,4 @@
-import { gql } from 'graphql-tag';import { gql } from 'graphql-tag';
-
+import { gql } from 'graphql-tag';
 const typeDefs = gql`
   type Movie {
     id: ID!
